@@ -1,4 +1,4 @@
-# 7DaysOfCode---GitHub
+# #7DaysOfCode---GitHub
 
 DIA 1
 Já no primeiro dia, você vai criar manualmente o seu repositório no GitHub. Você também irá alterar o arquivo ReadMe do seu perfil.
