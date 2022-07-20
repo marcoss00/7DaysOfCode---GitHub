@@ -1,4 +1,4 @@
-# #7DaysOfCode---GitHub
+# 7DaysOfCode---GitHub
 
 DIA 1
 Já no primeiro dia, você vai criar manualmente o seu repositório no GitHub. Você também irá alterar o arquivo ReadMe do seu perfil.
@@ -20,6 +20,3 @@ Hoje você vai lidar com conflitos. Inicialmente, forçaremos commits a partir d
 
 DIA 7
 No sétimo e último dia do desafio, você irá colocar o seu projeto em produção usando o GitHub Pages do próprio GitHub. Você irá fechar com chave de ouro!
-
-#7DaysOfCode
-#alura
